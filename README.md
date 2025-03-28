@@ -3,7 +3,7 @@
 </p>
 
 
-- 📫 How to reach me: https://linktr.ee/ensaryozgat
+- 📫 How to reach me: https://linktr.ee/ensaryozgat .
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xEnsar&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/0xEnsar/github-readme-stats#gh-dark-mode-only)
